@@ -42,6 +42,16 @@ This is the model that I created.
 <img src="images/frame_systhesis.png" width=50% height=50%>
 
 
+## Result
+<tabel>
+  <thead>
+    <th> Model </th>
+    <th rowspan=2> Vimeo90K </th>
+    <th rowspan=2> UCF101 </th>
+  </thead>
+</table>
+
+
 # Acknowledgement
 Many parts of my code is adapted from*
 * [CAIN](https://github.com/myungsub/CAIN)
