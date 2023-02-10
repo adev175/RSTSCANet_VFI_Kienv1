@@ -1,5 +1,8 @@
 # RSTSCANet_VFI
 This is the repo for my research about Video Frame Interpolation.
+In this research, I created Residual Spatial Temporal Swin transformer Channel Attention Group
+(RSTSCAGroup) which based on Swin Transformer to study the feature map of two input images.
+Also, I used Pixel Shuffle to down shuffle the input feature to strengthen the  long-range dependencies of Transformer model. Moreover, the Pixel Shuffle generates down-sampled feature map without losing any information.
 
 ## Dependencies
 Current version is tested on: 
