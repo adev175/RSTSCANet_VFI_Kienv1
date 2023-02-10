@@ -30,11 +30,11 @@ python test.py --checkpoint_dir <checkpoint_directory> --datasetName <Vimeo90K o
 ## Model
 This is the model that I created.
 
-![rstscanet](https://www.dropbox.com/s/hd57i1q0knf6rc3/rstscanet.png?dl=0](https://user-images.githubusercontent.com/105159083/218031581-b6e48dfc-63f9-4eab-ba27-bcdce5262839.png)
+![rstscanet](images/rstscanet.png)
 
-![rstscagroup](https://www.dropbox.com/s/2kbwqexkpzpxwil/frame_systhesis.png?dl=0](https://user-images.githubusercontent.com/105159083/218031635-485e48a3-21e8-4127-add9-cc282f9b2355.png)
+![rstscagroup](images/rstscagroup.png)
 
-![frame_synthesis](https://www.dropbox.com/s/2kbwqexkpzpxwil/frame_systhesis.png?dl=0](https://user-images.githubusercontent.com/105159083/218031647-f478d6ea-ea1d-4a43-ad82-234ede0b4d4c.png)
+![frame_synthesis](images/frame_systhesis.png)
 
 # Acknowledgement
 Many parts of my code is adapted from*
