@@ -43,7 +43,8 @@ This is the model that I created.
 
 
 ## Result
-<table>
+I train the model with 100 epochs. Then I evaluate the pretrained model on [Vimeo90K](http://toflow.csail.mit.edu/) and [UCF101](https://drive.google.com/file/d/0B7EVK8r0v71pdHBNdXB6TE1wSTQ/view?resourcekey=0-r6ihCy20h3kbgZ3ZdimPiA) dataset
+<table class="center">
   <thead>
     <th> Model </th>
     <th> Parameters (M) </th>
