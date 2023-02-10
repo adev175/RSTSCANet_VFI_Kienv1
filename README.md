@@ -9,3 +9,15 @@ Current version is tested on:
 * cupy == 10.6.0
 * tensorboard == 2.11.0
 * einops == 0.4.1
+
+## Train
+* We use [Vimeo90K Triplet dataset](http://toflow.csail.mit.edu/) for training + testing
+* Then train RSTSCANet as below:
+'''
+python main.py --datasetName Vimeo_90K --datasetPath <dataset_root> --batch_size <batch_size>
+'''
+
+## Test
+After training, you can evaluate the model with following command:
+'''
+'''
