@@ -46,9 +46,20 @@ This is the model that I created.
 <table>
   <thead>
     <th> Model </th>
+    <th> Parameters (M) </th>
     <th rowspan=2> Vimeo90K </th>
     <th rowspan=2> UCF101 </th>
   </thead>
+  
+  <tbody>
+    <td> RSTSCANet </td>
+    <td> 21.3 </td>
+    <td> 35.432 </td>
+    <td> 0.978 </td>
+    <td> 35.038 </td>
+    <td> 0.969 </td>
+    
+  </tbody>
 </table>
 
 
