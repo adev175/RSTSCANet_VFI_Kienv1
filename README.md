@@ -43,7 +43,7 @@ This is the model that I created.
 
 
 ## Result
-<tabel>
+<table>
   <thead>
     <th> Model </th>
     <th rowspan=2> Vimeo90K </th>
