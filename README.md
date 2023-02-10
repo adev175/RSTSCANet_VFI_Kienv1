@@ -13,9 +13,9 @@ Current version is tested on:
 ## Train
 * We use [Vimeo90K Triplet dataset](http://toflow.csail.mit.edu/) for training + testing
 * Then train RSTSCANet as below:
-'''
+"""
 python main.py --datasetName Vimeo_90K --datasetPath <dataset_root> --batch_size <batch_size>
-'''
+"""
 
 ## Test
 After training, you can evaluate the model with following command:
