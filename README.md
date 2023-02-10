@@ -11,7 +11,7 @@ Current version is tested on:
 * einops == 0.4.1
 
 ## Train
-* We use [Vimeo90K Triplet dataset](http://toflow.csail.mit.edu/) for training + testing
+* I use [Vimeo90K Triplet dataset](http://toflow.csail.mit.edu/) for training + testing
 * Then train RSTSCANet as below:
 ```
 python main.py --datasetName Vimeo_90K --datasetPath <dataset_path> --batch_size <batch_size>
@@ -25,6 +25,13 @@ python test.py --checkpoint_dir <checkpoint_directory> --datasetName <Vimeo90K o
 
 * For UCF101 test dataset, you can download from [here](https://drive.google.com/file/d/0B7EVK8r0v71pdHBNdXB6TE1wSTQ/view?resourcekey=0-r6ihCy20h3kbgZ3ZdimPiA)
 * Download pretrained model from [here](https://www.dropbox.com/scl/fo/ayey1dcz9f9bit78rbmy4/h?dl=0&rlkey=4d2x7prwi3izhuzlph6sa1jdj)
+
+
+## Model
+This is the model that I created.
+![rstscanet](https://www.dropbox.com/s/hd57i1q0knf6rc3/rstscanet.png?dl=0)
+![rstscagroup](https://www.dropbox.com/s/2kbwqexkpzpxwil/frame_systhesis.png?dl=0)
+![frame_synthesis](https://www.dropbox.com/s/2kbwqexkpzpxwil/frame_systhesis.png?dl=0)
 
 # Acknowledgement
 Many parts of my code is adapted from*
