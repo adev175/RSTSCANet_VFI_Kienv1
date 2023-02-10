@@ -47,8 +47,8 @@ This is the model that I created.
   <thead>
     <th> Model </th>
     <th> Parameters (M) </th>
-    <th rowspan=2> Vimeo90K </th>
-    <th rowspan=2> UCF101 </th>
+    <th colspan=2> Vimeo90K </th>
+    <th colspan=2> UCF101 </th>
   </thead>
   
   <tbody>
