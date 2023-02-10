@@ -30,6 +30,8 @@ python test.py --checkpoint_dir <checkpoint_directory> --datasetName <Vimeo90K o
 ## Model
 This is the model that I created.
 
+<img src="images/rstscanet.png" width=50% height=50%>
+
 ![rstscanet](images/rstscanet.png)
 
 ![rstscagroup](images/rstscagroup.png)
