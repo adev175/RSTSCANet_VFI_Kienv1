@@ -32,7 +32,9 @@ This is the model that I created.
 
 <img src="images/rstscanet.png" width=50% height=50%>
 
-<img src="images/rstscagroup.png" width=50% height=50%> <img src="images/frame_systhesis.png" width=50% height=50%>
+<img src="images/rstscagroup.png" width=50% height=50%> 
+
+<img src="images/frame_systhesis.png" width=50% height=50%>
 
 
 # Acknowledgement
