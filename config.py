@@ -8,7 +8,7 @@ import numpy as np
 # datasetPath = 'D:/KIEN/Dataset/UCF101/UCF101_Dataset/'
 
 ## Dataset path for Vimeo_90K
-datasetPath = 'D:/KIEN/Dataset/Vimeo_90K/'
+datasetPath = 'F:/vimeo_triplet'
 # datasetPath = 'D:/KIEN/Dataset/vimeo_septuplet/'
 
 ## Dataset path for SNU-FILM
